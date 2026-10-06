@@ -7,7 +7,7 @@ The project focuses on applying the concepts and skills learned during the cours
 |------|------|------------|
 | 1 | Lohith Sadhu | 2620030635 |
 | 2 | Narasimha Reddy | 2620040086 |
-| 3 | Subramanya Rithvik | 2620030592 |
+| 3 | Sista Sri Sai Subramanya Rithvik | 2620030592 |
 | 4 | Ujwal Amogh | 2620030640 |
 
 ## Project Details
